@@ -2,12 +2,12 @@
 <search>
   <entry>
     <title><![CDATA[【伏天记】阅读笔记]]></title>
-    <url>%2F2018%2F11%2F13%2Fyuque%2F%E3%80%90%E4%BC%8F%E5%A4%A9%E8%AE%B0%E3%80%91%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0%2F</url>
+    <url>%2Fposts%2Faf07338e%2F</url>
     <content type="text"><![CDATA[这个笔记也可以试一下hexo是否可以正常发布文章呢]]></content>
   </entry>
   <entry>
     <title><![CDATA[【MacType】win10使用mac字体]]></title>
-    <url>%2F2018%2F10%2F19%2Fyuque%2F%E3%80%90MacType%E3%80%91win10%E4%BD%BF%E7%94%A8mac%E5%AD%97%E4%BD%93%2F</url>
+    <url>%2Fposts%2Fdc806ffb%2F</url>
     <content type="text"><![CDATA[说明 使用MacType工具使得win10可以使用mac的字体 视觉效果特别棒 教程更新时间 20181019 教程找到github的mactype的地址1234#Mactype项目地址 https://github.com/snowie2000/mactype#下载地址https://github.com/snowie2000/mactype/releases/tag/1.2018.917.0-beta2 安装MacTypeInstaller文件 使用典型typical方式进行安装即可 进入操作界面 这里要注意，根据原作者的意思，使用win10的用户不要使用注册表模式加载，最好是用服务加载，或者是托盘加载的方式 解压缩最新的beta文件夹 找到安装目录，通常是 C:\Program Files\MacType 这一步很重要，把解压缩里面看到的每一个文件，在C盘文件夹里面找到，然后全部重新命名，然后再把压缩包里面的每一个文件复制进去，否则会因为权限问题无法正常复制重新启动电脑即可这样就可以在win10上使用mac的字体效果了！ 附件 在这里把两个文件放在这里供直接下载12链接: https://pan.baidu.com/s/1rULfnJI77h8ARMwmC6xsqg 提取码: 5647 复制这段内容后打开百度网盘手机App，操作更方便哦]]></content>
   </entry>
 </search>
