@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.lweein.cn/"/>
-  <updated>2018-12-25T10:26:47.351Z</updated>
+  <updated>2018-12-25T12:57:15.066Z</updated>
   <id>https://www.lweein.cn/</id>
   
   <author>
@@ -21,12 +21,20 @@
     <link href="https://www.lweein.cn/posts/721f23b5.html"/>
     <id>https://www.lweein.cn/posts/721f23b5.html</id>
     <published>2018-12-24T14:47:18.000Z</published>
-    <updated>2018-12-25T10:26:47.351Z</updated>
+    <updated>2018-12-25T12:57:15.066Z</updated>
     
     <summary type="html">
     
-      &lt;h1 id=&quot;项目优化列表&quot;&gt;&lt;a href=&quot;#项目优化列表&quot; class=&quot;headerlink&quot; title=&quot;项目优化列表&quot;&gt;&lt;/a&gt;&lt;a name=&quot;tnfpfi&quot;&gt;&lt;/a&gt;项目优化列表&lt;/h1&gt;&lt;p&gt;这里会列出该程序所有用到的插件和优化方案。&lt;/p&gt;
+      &lt;p&gt;tags:&lt;/p&gt;
 &lt;ul&gt;
+&lt;li&gt;Hexo&lt;/li&gt;
+&lt;li&gt;Next&lt;/li&gt;
+&lt;li&gt;网站部署&lt;br&gt;categories:&lt;/li&gt;
+&lt;li&gt;Hexo网站部署&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h1 id=&quot;项目优化列表&quot;&gt;&lt;a href=&quot;#项目优化列表&quot; class=&quot;headerlink&quot; title=&quot;项目优化列表&quot;&gt;&lt;/a&gt;&lt;a name=&quot;tnfpfi&quot;&gt;&lt;/a&gt;项目优化列表&lt;/h1&gt;&lt;p&gt;这里会列出该程序所有用到的插件和优化方案。&lt;/p&gt;
+&lt;h2 id=&quot;SEO和站点收录相关&quot;&gt;&lt;a href=&quot;#SEO和站点收录相关&quot; class=&quot;headerlink&quot; title=&quot;SEO和站点收录相关&quot;&gt;&lt;/a&gt;&lt;a name=&quot;5xcegz&quot;&gt;&lt;/a&gt;SEO和站点收录相关&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;【已完成】【SEO】百度主动提交链接&lt;/li&gt;
 &lt;li&gt;【未完成】【SEO】百度主动推送熊掌号&lt;/li&gt;
 &lt;li&gt;【已完成】【SEO】sitemap百度和谷歌同步生成和处理，百度robots 文件生成配置&lt;/li&gt;
@@ -46,7 +54,7 @@
     <link href="https://www.lweein.cn/posts/f54ffe1a.html"/>
     <id>https://www.lweein.cn/posts/f54ffe1a.html</id>
     <published>2018-12-24T07:11:55.000Z</published>
-    <updated>2018-12-25T10:26:47.355Z</updated>
+    <updated>2018-12-25T12:57:15.072Z</updated>
     
     <summary type="html">
     
@@ -67,7 +75,7 @@
     <link href="https://www.lweein.cn/posts/74d69307.html"/>
     <id>https://www.lweein.cn/posts/74d69307.html</id>
     <published>2018-12-23T13:34:23.000Z</published>
-    <updated>2018-12-25T10:26:47.359Z</updated>
+    <updated>2018-12-25T12:57:15.078Z</updated>
     
     <summary type="html">
     
@@ -84,7 +92,7 @@
     <link href="https://www.lweein.cn/posts/23f9b8c4.html"/>
     <id>https://www.lweein.cn/posts/23f9b8c4.html</id>
     <published>2018-12-23T08:09:37.000Z</published>
-    <updated>2018-12-25T10:26:47.362Z</updated>
+    <updated>2018-12-25T12:57:15.082Z</updated>
     
     <summary type="html">
     
@@ -102,7 +110,7 @@
     <link href="https://www.lweein.cn/posts/dc806ffb.html"/>
     <id>https://www.lweein.cn/posts/dc806ffb.html</id>
     <published>2018-10-19T09:11:21.000Z</published>
-    <updated>2018-12-25T10:26:47.366Z</updated>
+    <updated>2018-12-25T12:57:15.085Z</updated>
     
     <summary type="html">
     
