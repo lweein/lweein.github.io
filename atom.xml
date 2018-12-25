@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>lweeinTalk</title>
+  
+  <subtitle>苦攀，为览众山。海只一眼，看尽白帆</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://www.lweein.cn/"/>
+  <updated>2018-12-25T08:41:07.994Z</updated>
+  <id>https://www.lweein.cn/</id>
+  
+  <author>
+    <name>lweein</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hexo+Next 网站程序部署 (二）插件和优化</title>
+    <link href="https://www.lweein.cn/posts/721f23b5.html"/>
+    <id>https://www.lweein.cn/posts/721f23b5.html</id>
+    <published>2018-12-24T14:47:18.000Z</published>
+    <updated>2018-12-25T08:41:07.994Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;项目优化列表&quot;&gt;&lt;a href=&quot;#项目优化列表&quot; class=&quot;headerlink&quot; title=&quot;项目优化列表&quot;&gt;&lt;/a&gt;&lt;a name=&quot;tnfpfi&quot;&gt;&lt;/a&gt;项目优化列表&lt;/h1&gt;&lt;p&gt;这里会列出该程序所有用到的插件和优化方案。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;【已完成】【SEO】百度主动提交链接&lt;/li&gt;
+&lt;li&gt;【未完成】【SEO】百度主动推送熊掌号&lt;/li&gt;
+&lt;li&gt;【已完成】【SEO】sitemap百度和谷歌同步生成和处理，百度robots 文件生成配置&lt;/li&gt;
+&lt;li&gt;【已完成】【SEO】百度站点验证和熊掌号开通&lt;/li&gt;
+&lt;li&gt;【已完成】【SEO】百度统计功能增加&lt;/li&gt;
+&lt;li&gt;【已完成】【SEO】修改固定链接模式，提高SEO优化&lt;/li&gt;
+&lt;li&gt;【已完成】【SEO】谷歌SearchConsole 站长站点收录&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;【已完成】【性能】Gulp 4.0 的安装和配置&lt;/li&gt;
+&lt;li&gt;【已完成】【优化】Package.json 使用Scripts 配置方式，一行代码npm run build 解决语雀数据清除，语雀数据拉取，Hexo清除，Hexo G，Gulp 压缩，和 Hexo Deploy&lt;/li&gt;
+&lt;li&gt;【已完成】【优化】网站底部统计字数功能&lt;/li&gt;
+&lt;li&gt;【已完成】【优化】文章字数统计和阅读时间统计功能&lt;/li&gt;
+&lt;li&gt;【已完成】【优化】文章编辑器采用语雀平台进行编辑&lt;/li&gt;
+&lt;/ul&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Win10系统下使用Cmder和配置方案</title>
+    <link href="https://www.lweein.cn/posts/f54ffe1a.html"/>
+    <id>https://www.lweein.cn/posts/f54ffe1a.html</id>
+    <published>2018-12-24T07:11:55.000Z</published>
+    <updated>2018-12-25T08:41:07.997Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;Cmder的使用&quot;&gt;&lt;a href=&quot;#Cmder的使用&quot; class=&quot;headerlink&quot; title=&quot;Cmder的使用&quot;&gt;&lt;/a&gt;&lt;a name=&quot;25s6ck&quot;&gt;&lt;/a&gt;Cmder的使用&lt;/h1&gt;&lt;p&gt;在win10下用传统的cmd的窗口虽然说也还可以，但是平时用习惯了linux下的操作方式，比如 ls ll等菜单，在win下会不太适应。那么Cmder这个神器应运而生。软件在Cmder &lt;a href=&quot;http://cmder.net/&quot; rel=&quot;external nofollow noopener noreferrer&quot; target=&quot;_blank&quot;&gt;官方网站&lt;/a&gt; 下可以下载到。就是下载速度实在是不敢恭维。在此提供一份 Latest Version: v1.3.11 版本的 Full with Git的百度下载地址&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;以下是引用作者 晚晴幽草 在简书上的介绍&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;http://cmder.net/&lt;/code&gt;（她把conemu，msysgit和clink打包在一起，让你无需配置就能使用一个真正干净的Linux终端！她甚至还附带了漂亮的monokai配色主题。）;作为一个压缩档的存在, 可即压即用。你甚至可以放到USB就可以虽时带着走，连调整过的设定都会放在这个目录下，不会用到系统机码(Registry)，所以也很适合放在Dropbox / Google Drive / OneDrive共享于多台电脑。&lt;/p&gt;
+&lt;p&gt;下载的时候，有两个版本，分别是mini与full版；唯一的差别在于有没有内建msysgit工具，这是Git for Windows的标准配备；全安装版 cmder 自带了 msysgit, 压缩包 23M, 除了 git 本身这个命令之外, 里面可以使用大量的 linux 命令；比如 grep, curl(没有 wget)； 像vim, grep, tar, unzip, ssh, ls, bash, perl 对于爱折腾的Coder更是痛点需求。&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo压缩代码使用Gulp时因4.0版本原因提示assert.js报错</title>
+    <link href="https://www.lweein.cn/posts/74d69307.html"/>
+    <id>https://www.lweein.cn/posts/74d69307.html</id>
+    <published>2018-12-23T13:34:23.000Z</published>
+    <updated>2018-12-25T08:41:08.001Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;Gulp报错的说明&quot;&gt;&lt;a href=&quot;#Gulp报错的说明&quot; class=&quot;headerlink&quot; title=&quot;Gulp报错的说明&quot;&gt;&lt;/a&gt;&lt;a name=&quot;fvt7tu&quot;&gt;&lt;/a&gt;Gulp报错的说明&lt;/h1&gt;&lt;p&gt;在hexo 最新3.8版本里面安装gulp 进行压缩。发现会进行报错。百思不得其解，发现是因为网络上的gulp教程均适用于 &lt;strong&gt;gulp 4.0 版本以下&lt;/strong&gt; ，如果是安装了最新的gulp 4.0 版本的情况下，则就会进行报错。&lt;strong&gt;解决办法在下面有说明&lt;/strong&gt; &lt;/p&gt;
+&lt;figure class=&quot;highlight javascript&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;16&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;λ gulp&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;assert.js:&lt;span class=&quot;number&quot;&gt;350&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    &lt;span class=&quot;keyword&quot;&gt;throw&lt;/span&gt; err;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    ^&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;AssertionError [ERR_ASSERTION]: Task &lt;span class=&quot;function&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;title&quot;&gt;must&lt;/span&gt; &lt;span class=&quot;title&quot;&gt;be&lt;/span&gt; &lt;span class=&quot;title&quot;&gt;specified&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    at Gulp.set [as _setTask] (C:\lweein\SkywenWork\Code\lweeintalk\node_modules\undertaker\lib\set-task.js:10:3)&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    at Gulp.task (C:\lweein\SkywenWork\Code\lweeintalk\node_modules\undertaker\lib\task.js:&lt;span class=&quot;number&quot;&gt;13&lt;/span&gt;:&lt;span class=&quot;number&quot;&gt;8&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    at &lt;span class=&quot;built_in&quot;&gt;Object&lt;/span&gt;.&amp;lt;anonymous&amp;gt; (C:\lweein\SkywenWork\Code\lweeintalk\gulpfile.js:&lt;span class=&quot;number&quot;&gt;31&lt;/span&gt;:&lt;span class=&quot;number&quot;&gt;6&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    at Module._compile (internal/modules/cjs/loader.js:&lt;span class=&quot;number&quot;&gt;689&lt;/span&gt;:&lt;span class=&quot;number&quot;&gt;30&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    at &lt;span class=&quot;built_in&quot;&gt;Object&lt;/span&gt;.Module._extensions..js (internal/modules/cjs/loader.js:&lt;span class=&quot;number&quot;&gt;700&lt;/span&gt;:&lt;span class=&quot;number&quot;&gt;10&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    at Module.load (internal/modules/cjs/loader.js:&lt;span class=&quot;number&quot;&gt;599&lt;/span&gt;:&lt;span class=&quot;number&quot;&gt;32&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    at tryModuleLoad (internal/modules/cjs/loader.js:&lt;span class=&quot;number&quot;&gt;538&lt;/span&gt;:&lt;span class=&quot;number&quot;&gt;12&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    at &lt;span class=&quot;built_in&quot;&gt;Function&lt;/span&gt;.Module._load (internal/modules/cjs/loader.js:&lt;span class=&quot;number&quot;&gt;530&lt;/span&gt;:&lt;span class=&quot;number&quot;&gt;3&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    at Module.require (internal/modules/cjs/loader.js:&lt;span class=&quot;number&quot;&gt;637&lt;/span&gt;:&lt;span class=&quot;number&quot;&gt;17&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    at &lt;span class=&quot;built_in&quot;&gt;require&lt;/span&gt; (internal/modules/cjs/helpers.js:&lt;span class=&quot;number&quot;&gt;22&lt;/span&gt;:&lt;span class=&quot;number&quot;&gt;18&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo+Next 网站程序部署 (一）</title>
+    <link href="https://www.lweein.cn/posts/23f9b8c4.html"/>
+    <id>https://www.lweein.cn/posts/23f9b8c4.html</id>
+    <published>2018-12-23T08:09:37.000Z</published>
+    <updated>2018-12-25T08:41:08.006Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;网站部署说明&quot;&gt;&lt;a href=&quot;#网站部署说明&quot; class=&quot;headerlink&quot; title=&quot;网站部署说明&quot;&gt;&lt;/a&gt;&lt;a name=&quot;ckxrra&quot;&gt;&lt;/a&gt;网站部署说明&lt;/h1&gt;&lt;p&gt;网站使用Hexo 纯静态博客程序 + Next 主题 最新的 6.0 版本进行构建。在本地进行安装，配置和调试工作。目前的使用方式是使用 &lt;strong&gt;hexo yuque&lt;/strong&gt;  插件，在语雀编辑器上进行文章编辑，因为这个编辑器用起来的感觉是最舒服的。&lt;/p&gt;
+&lt;h3 id=&quot;语雀编辑器的使用&quot;&gt;&lt;a href=&quot;#语雀编辑器的使用&quot; class=&quot;headerlink&quot; title=&quot;语雀编辑器的使用&quot;&gt;&lt;/a&gt;&lt;a name=&quot;ufbmdy&quot;&gt;&lt;/a&gt;语雀编辑器的使用&lt;/h3&gt;&lt;p&gt;现在的文章编写之后，需要在本地进行文章拉取，然后构建，测试和发布，听说12月24日开始语雀开放全平台的webhook的方式，那么应该可以做到，语雀发布文章之后，触发webhook，然后推送到Git平台，然后通过Cl的持续构建，比如Jenkins或者其他方式，进行云端构建，然后通过YML的脚本，进行自动发布和部署。&lt;/p&gt;
+&lt;h3 id=&quot;Next-主题的使用&quot;&gt;&lt;a href=&quot;#Next-主题的使用&quot; class=&quot;headerlink&quot; title=&quot;Next 主题的使用&quot;&gt;&lt;/a&gt;&lt;a name=&quot;af3gfq&quot;&gt;&lt;/a&gt;Next 主题的使用&lt;/h3&gt;&lt;p&gt;原来在使用wordpress的时候，在Github上用过一段时间的Next主题的改造版本，留下了很深的印象。现在开始使用Hexo之后，发现Next 仿佛是最受欢迎的主题之一。而且在初步调试和使用过程中发现确实很不错。当然开始是找到了5.0版本的，因为搜索到了中文的文档，后来发现最新的已经是6.6版本的，在Github上。然后在5.0升级到 6.0的过程中，遇到了一个大坑。&lt;strong&gt;就是无法进行直接升级，必须进行主题替换，然后_config.yml 文件进行修改和重新配置才可以，并不能直接升级，好尴尬。&lt;/strong&gt; &lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>【MacType】win10使用mac字体</title>
+    <link href="https://www.lweein.cn/posts/dc806ffb.html"/>
+    <id>https://www.lweein.cn/posts/dc806ffb.html</id>
+    <published>2018-10-19T09:11:21.000Z</published>
+    <updated>2018-12-25T08:41:08.009Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;说明&quot;&gt;&lt;a href=&quot;#说明&quot; class=&quot;headerlink&quot; title=&quot;说明&quot;&gt;&lt;/a&gt;&lt;a name=&quot;u0zipo&quot;&gt;&lt;/a&gt;说明&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;使用MacType工具使得win10可以使用mac的字体&lt;/li&gt;
+&lt;li&gt;视觉效果特别棒&lt;/li&gt;
+&lt;li&gt;教程更新时间 20181019&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;教程&quot;&gt;&lt;a href=&quot;#教程&quot; class=&quot;headerlink&quot; title=&quot;教程&quot;&gt;&lt;/a&gt;&lt;a name=&quot;igk9gt&quot;&gt;&lt;/a&gt;教程&lt;/h2&gt;&lt;h3 id=&quot;找到github的mactype的地址&quot;&gt;&lt;a href=&quot;#找到github的mactype的地址&quot; class=&quot;headerlink&quot; title=&quot;找到github的mactype的地址&quot;&gt;&lt;/a&gt;&lt;a name=&quot;u7gpoa&quot;&gt;&lt;/a&gt;找到github的mactype的地址&lt;/h3&gt;&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;#Mactype项目地址 &lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;https://github.com/snowie2000/mactype&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;#下载地址&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;https://github.com/snowie2000/mactype/releases/tag/1.2018.917.0-beta2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;h3 id=&quot;安装MacTypeInstaller文件&quot;&gt;&lt;a href=&quot;#安装MacTypeInstaller文件&quot; class=&quot;headerlink&quot; title=&quot;安装MacTypeInstaller文件&quot;&gt;&lt;/a&gt;&lt;a name=&quot;w0rtzv&quot;&gt;&lt;/a&gt;安装MacTypeInstaller文件&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;使用典型typical方式进行安装即可&lt;/li&gt;
+&lt;li&gt;进入操作界面
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
