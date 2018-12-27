@@ -2,6 +2,8 @@
 User-agent: *
 Allow: /
 Allow: /archives/
+Allow: /posts/
+Allow: /about/
 
 Disallow: /vendors/
 Disallow: /js/
