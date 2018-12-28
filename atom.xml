@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.lweein.cn/"/>
-  <updated>2018-12-27T08:39:32.399Z</updated>
+  <updated>2018-12-28T03:08:54.242Z</updated>
   <id>https://www.lweein.cn/</id>
   
   <author>
@@ -17,23 +17,47 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>2018年个人投资总结 - 又一次见证历史</title>
+    <link href="https://www.lweein.cn/posts/4eaa4dab.html"/>
+    <id>https://www.lweein.cn/posts/4eaa4dab.html</id>
+    <published>2018-12-28T01:41:21.000Z</published>
+    <updated>2018-12-28T03:08:54.242Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;现在12月28日应该是2018年最后一个交易日，整年大盘从3500+点跌到今天的 2400+点，基本上30%左右的上证跌幅，创业版从1900+跌到现在 1200+
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>Hexo+Next 网站程序部署 (二）插件和优化</title>
     <link href="https://www.lweein.cn/posts/721f23b5.html"/>
     <id>https://www.lweein.cn/posts/721f23b5.html</id>
     <published>2018-12-24T14:47:18.000Z</published>
-    <updated>2018-12-27T08:39:32.399Z</updated>
+    <updated>2018-12-28T03:08:54.247Z</updated>
     
     <summary type="html">
     
       &lt;h1 id=&quot;项目优化列表&quot;&gt;&lt;a href=&quot;#项目优化列表&quot; class=&quot;headerlink&quot; title=&quot;项目优化列表&quot;&gt;&lt;/a&gt;&lt;a name=&quot;lairub&quot;&gt;&lt;/a&gt;项目优化列表&lt;/h1&gt;&lt;p&gt;这里会列出该程序所有用到的插件和优化方案。&lt;/p&gt;
 &lt;h2 id=&quot;SEO和站点收录相关&quot;&gt;&lt;a href=&quot;#SEO和站点收录相关&quot; class=&quot;headerlink&quot; title=&quot;SEO和站点收录相关&quot;&gt;&lt;/a&gt;&lt;a name=&quot;5xcegz&quot;&gt;&lt;/a&gt;SEO和站点收录相关&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;【已完成】【SEO】百度主动提交链接&lt;/li&gt;
-&lt;li&gt;【未完成】【SEO】百度主动推送熊掌号&lt;/li&gt;
+&lt;li&gt;【已完成】【SEO】百度主动推送熊掌号&lt;/li&gt;
+&lt;li&gt;【已完成】【SEO】熊掌号认证，绑定，主动推送服务正式开启&lt;/li&gt;
 &lt;li&gt;【已完成】【SEO】sitemap百度和谷歌同步生成和处理，百度robots 文件生成配置&lt;/li&gt;
 &lt;li&gt;【已完成】【SEO】百度站点验证和熊掌号开通&lt;/li&gt;
 &lt;li&gt;【已完成】【SEO】百度统计功能增加&lt;/li&gt;
 &lt;li&gt;【已完成】【SEO】修改固定链接模式，提高SEO优化&lt;/li&gt;
 &lt;li&gt;【已完成】【SEO】谷歌SearchConsole 站长站点收录&lt;/li&gt;
+&lt;li&gt;【已完成】【SEO】Robots 文件因为固定链接修改导致Posts 和About被Now Allow的问题解决了&lt;/li&gt;
 &lt;/ul&gt;
     
     </summary>
@@ -46,7 +70,7 @@
     <link href="https://www.lweein.cn/posts/f54ffe1a.html"/>
     <id>https://www.lweein.cn/posts/f54ffe1a.html</id>
     <published>2018-12-24T07:11:55.000Z</published>
-    <updated>2018-12-27T08:39:32.409Z</updated>
+    <updated>2018-12-28T03:08:54.250Z</updated>
     
     <summary type="html">
     
@@ -67,7 +91,7 @@
     <link href="https://www.lweein.cn/posts/74d69307.html"/>
     <id>https://www.lweein.cn/posts/74d69307.html</id>
     <published>2018-12-23T13:34:23.000Z</published>
-    <updated>2018-12-27T08:39:32.417Z</updated>
+    <updated>2018-12-28T03:08:54.253Z</updated>
     
     <summary type="html">
     
@@ -84,7 +108,7 @@
     <link href="https://www.lweein.cn/posts/23f9b8c4.html"/>
     <id>https://www.lweein.cn/posts/23f9b8c4.html</id>
     <published>2018-12-23T08:09:37.000Z</published>
-    <updated>2018-12-27T08:39:32.424Z</updated>
+    <updated>2018-12-28T03:08:54.256Z</updated>
     
     <summary type="html">
     
@@ -102,7 +126,7 @@
     <link href="https://www.lweein.cn/posts/dc806ffb.html"/>
     <id>https://www.lweein.cn/posts/dc806ffb.html</id>
     <published>2018-10-19T09:11:21.000Z</published>
-    <updated>2018-12-27T08:39:32.432Z</updated>
+    <updated>2018-12-28T03:08:54.259Z</updated>
     
     <summary type="html">
     
