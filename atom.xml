@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.lweein.cn/"/>
-  <updated>2018-12-29T08:17:23.491Z</updated>
+  <updated>2018-12-29T08:32:42.843Z</updated>
   <id>https://www.lweein.cn/</id>
   
   <author>
@@ -21,31 +21,11 @@
     <link href="https://www.lweein.cn/posts/5c91920a.html"/>
     <id>https://www.lweein.cn/posts/5c91920a.html</id>
     <published>2018-12-29T07:16:14.000Z</published>
-    <updated>2018-12-29T08:17:23.491Z</updated>
+    <updated>2018-12-29T08:32:42.843Z</updated>
     
     <summary type="html">
     
-      &lt;hr&gt;
-&lt;p&gt;categories:&lt;br&gt; 技术&lt;br&gt;tags:&lt;/p&gt;
-&lt;h2 id=&quot;NPM&quot;&gt;&lt;a href=&quot;#NPM&quot; class=&quot;headerlink&quot; title=&quot; NPM&quot;&gt;&lt;/a&gt; NPM&lt;/h2&gt;&lt;p&gt;这里会集中常用的和经常会需要的Node.JS 在本地部署，以及npm 相关的操作方式。虽然说很多时候可以通过百度或者很多地方进行搜索。但是信息有效性很难保证。同时自己平时用的也就那么些个功能和方式，所以还是觉得写下来，总结一下。这样以后需要用到的时候可以很方便的查看自己的博客即可。同时起到了一个很好的归纳和学习的需要。&lt;/p&gt;
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hexo 文章模版 【FrontMatter】</title>
-    <link href="https://www.lweein.cn/posts/ae078eff.html"/>
-    <id>https://www.lweein.cn/posts/ae078eff.html</id>
-    <published>2018-12-29T07:13:38.000Z</published>
-    <updated>2018-12-29T08:17:23.496Z</updated>
-    
-    <summary type="html">
-    
-      &lt;hr&gt;
-&lt;p&gt;categories:&lt;/p&gt;
-&lt;h2 id=&quot;tags&quot;&gt;&lt;a href=&quot;#tags&quot; class=&quot;headerlink&quot; title=&quot;tags:&quot;&gt;&lt;/a&gt;tags:&lt;/h2&gt;
+      &lt;p&gt;这里会集中常用的和经常会需要的Node.JS 在本地部署，以及npm 相关的操作方式。虽然说很多时候可以通过百度或者很多地方进行搜索。但是信息有效性很难保证。同时自己平时用的也就那么些个功能和方式，所以还是觉得写下来，总结一下。这样以后需要用到的时候可以很方便的查看自己的博客即可。同时起到了一个很好的归纳和学习的需要。&lt;/p&gt;
     
     </summary>
     
@@ -57,13 +37,11 @@
     <link href="https://www.lweein.cn/posts/eb01e8f9.html"/>
     <id>https://www.lweein.cn/posts/eb01e8f9.html</id>
     <published>2018-12-28T05:03:12.000Z</published>
-    <updated>2018-12-29T08:17:23.499Z</updated>
+    <updated>2018-12-29T08:32:42.847Z</updated>
     
     <summary type="html">
     
-      &lt;hr&gt;
-&lt;p&gt;categories: 技术&lt;/p&gt;
-&lt;h2 id=&quot;tags-操作系统-软件推荐&quot;&gt;&lt;a href=&quot;#tags-操作系统-软件推荐&quot; class=&quot;headerlink&quot; title=&quot;tags: 操作系统,软件推荐&quot;&gt;&lt;/a&gt;tags: 操作系统,软件推荐&lt;/h2&gt;&lt;p&gt;因为自己的电脑在平均1-2年之间总会出现各种各样的问题，基于软件安装比较多，同时来回卸载和更新，虽然现在性能过剩并不会造成很多的速度变慢。目前还是在用 i7 6700K +16G DDR4 2400 + 256G SSD + 1T 机械 + 2台27寸 1080P 三星显示器。作为主力办公工作使用。&lt;/p&gt;
+      &lt;p&gt;因为自己的电脑在平均1-2年之间总会出现各种各样的问题，基于软件安装比较多，同时来回卸载和更新，虽然现在性能过剩并不会造成很多的速度变慢。目前还是在用 i7 6700K +16G DDR4 2400 + 256G SSD + 1T 机械 + 2台27寸 1080P 三星显示器。作为主力办公工作使用。&lt;/p&gt;
 &lt;p&gt;在这里一方面今天重置了自己一年多使用的系统，重新回到初始状态，不可避免的需要重新安装所有需要用到的软件。另一方面自己也想写一篇文章，用来记录一下自己平时最常用的软件。可以推荐给大家也作为分享，可以共同进步吧。&lt;/p&gt;
     
     </summary>
@@ -76,7 +54,7 @@
     <link href="https://www.lweein.cn/posts/4eaa4dab.html"/>
     <id>https://www.lweein.cn/posts/4eaa4dab.html</id>
     <published>2018-12-28T01:41:21.000Z</published>
-    <updated>2018-12-29T08:17:23.501Z</updated>
+    <updated>2018-12-29T08:32:42.850Z</updated>
     
     <summary type="html">
     
@@ -93,7 +71,7 @@
     <link href="https://www.lweein.cn/posts/721f23b5.html"/>
     <id>https://www.lweein.cn/posts/721f23b5.html</id>
     <published>2018-12-24T14:47:18.000Z</published>
-    <updated>2018-12-29T08:17:23.505Z</updated>
+    <updated>2018-12-29T08:32:42.853Z</updated>
     
     <summary type="html">
     
@@ -120,7 +98,7 @@
     <link href="https://www.lweein.cn/posts/f54ffe1a.html"/>
     <id>https://www.lweein.cn/posts/f54ffe1a.html</id>
     <published>2018-12-24T07:11:55.000Z</published>
-    <updated>2018-12-29T08:17:23.508Z</updated>
+    <updated>2018-12-29T08:32:42.856Z</updated>
     
     <summary type="html">
     
@@ -141,7 +119,7 @@
     <link href="https://www.lweein.cn/posts/74d69307.html"/>
     <id>https://www.lweein.cn/posts/74d69307.html</id>
     <published>2018-12-23T13:34:23.000Z</published>
-    <updated>2018-12-29T08:17:23.515Z</updated>
+    <updated>2018-12-29T08:32:42.858Z</updated>
     
     <summary type="html">
     
@@ -158,7 +136,7 @@
     <link href="https://www.lweein.cn/posts/23f9b8c4.html"/>
     <id>https://www.lweein.cn/posts/23f9b8c4.html</id>
     <published>2018-12-23T08:09:37.000Z</published>
-    <updated>2018-12-29T08:17:23.520Z</updated>
+    <updated>2018-12-29T08:32:42.861Z</updated>
     
     <summary type="html">
     
@@ -176,7 +154,7 @@
     <link href="https://www.lweein.cn/posts/dc806ffb.html"/>
     <id>https://www.lweein.cn/posts/dc806ffb.html</id>
     <published>2018-10-19T09:11:21.000Z</published>
-    <updated>2018-12-29T08:17:23.522Z</updated>
+    <updated>2018-12-29T08:32:42.863Z</updated>
     
     <summary type="html">
     
