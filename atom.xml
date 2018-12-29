@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.lweein.cn/"/>
-  <updated>2018-12-29T09:19:27.158Z</updated>
+  <updated>2018-12-29T10:32:30.367Z</updated>
   <id>https://www.lweein.cn/</id>
   
   <author>
@@ -17,11 +17,30 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Hexo+Next 网站程序部署 (三）吐槽和评价</title>
+    <link href="https://www.lweein.cn/posts/e08aa31c.html"/>
+    <id>https://www.lweein.cn/posts/e08aa31c.html</id>
+    <published>2018-12-29T09:37:43.000Z</published>
+    <updated>2018-12-29T10:32:30.367Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;在Hexo+Next使用的这大半个月的时间里。学到了很多的东西，也遇到了很多的坑。总的来说。&lt;strong&gt;Hexo基本上就是给前端和初学的人一个折腾的博客&lt;/strong&gt; 。也就是这样吧。更多的实在不知道应该说。下面会在 &lt;strong&gt;短短半个多月的Hexo+Next的使用经验&lt;/strong&gt; 以及 &lt;strong&gt;Wordpress 超过10年的使用历程&lt;/strong&gt; ，以及其他 &lt;strong&gt;PJblog，Discuz，Zblog, Emlog，Ghost等等杂七杂八论坛和博客 &lt;/strong&gt;的使用基础之上，给出一个我自己的评价和分析。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;以下全部分析，大多数是Hexo的个人吐槽，和WP的个人使用经验分析对比。每个人感受不同。请嘴下留情。&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>Win10系统下Node.JS的NPM常用功能集锦【20181229】</title>
     <link href="https://www.lweein.cn/posts/5c91920a.html"/>
     <id>https://www.lweein.cn/posts/5c91920a.html</id>
     <published>2018-12-29T07:16:14.000Z</published>
-    <updated>2018-12-29T09:19:27.158Z</updated>
+    <updated>2018-12-29T10:32:30.371Z</updated>
     
     <summary type="html">
     
@@ -37,7 +56,7 @@
     <link href="https://www.lweein.cn/posts/eb01e8f9.html"/>
     <id>https://www.lweein.cn/posts/eb01e8f9.html</id>
     <published>2018-12-28T05:03:12.000Z</published>
-    <updated>2018-12-29T09:19:27.162Z</updated>
+    <updated>2018-12-29T10:32:30.374Z</updated>
     
     <summary type="html">
     
@@ -54,7 +73,7 @@
     <link href="https://www.lweein.cn/posts/4eaa4dab.html"/>
     <id>https://www.lweein.cn/posts/4eaa4dab.html</id>
     <published>2018-12-28T01:41:21.000Z</published>
-    <updated>2018-12-29T09:19:27.166Z</updated>
+    <updated>2018-12-29T10:32:30.376Z</updated>
     
     <summary type="html">
     
@@ -71,7 +90,7 @@
     <link href="https://www.lweein.cn/posts/721f23b5.html"/>
     <id>https://www.lweein.cn/posts/721f23b5.html</id>
     <published>2018-12-24T14:47:18.000Z</published>
-    <updated>2018-12-29T09:19:27.168Z</updated>
+    <updated>2018-12-29T10:32:30.380Z</updated>
     
     <summary type="html">
     
@@ -98,7 +117,7 @@
     <link href="https://www.lweein.cn/posts/f54ffe1a.html"/>
     <id>https://www.lweein.cn/posts/f54ffe1a.html</id>
     <published>2018-12-24T07:11:55.000Z</published>
-    <updated>2018-12-29T09:19:27.171Z</updated>
+    <updated>2018-12-29T10:32:30.382Z</updated>
     
     <summary type="html">
     
@@ -119,7 +138,7 @@
     <link href="https://www.lweein.cn/posts/74d69307.html"/>
     <id>https://www.lweein.cn/posts/74d69307.html</id>
     <published>2018-12-23T13:34:23.000Z</published>
-    <updated>2018-12-29T09:19:27.173Z</updated>
+    <updated>2018-12-29T10:32:30.385Z</updated>
     
     <summary type="html">
     
@@ -132,11 +151,11 @@
   </entry>
   
   <entry>
-    <title>Hexo+Next 网站程序部署 (一）</title>
-    <link href="https://www.lweein.cn/posts/23f9b8c4.html"/>
-    <id>https://www.lweein.cn/posts/23f9b8c4.html</id>
+    <title>Hexo+Next 网站程序部署 (一）初心和思考</title>
+    <link href="https://www.lweein.cn/posts/79091a49.html"/>
+    <id>https://www.lweein.cn/posts/79091a49.html</id>
     <published>2018-12-23T08:09:37.000Z</published>
-    <updated>2018-12-29T09:19:27.175Z</updated>
+    <updated>2018-12-29T10:32:30.390Z</updated>
     
     <summary type="html">
     
@@ -154,7 +173,7 @@
     <link href="https://www.lweein.cn/posts/dc806ffb.html"/>
     <id>https://www.lweein.cn/posts/dc806ffb.html</id>
     <published>2018-10-19T09:11:21.000Z</published>
-    <updated>2018-12-29T09:19:27.177Z</updated>
+    <updated>2018-12-29T10:32:30.392Z</updated>
     
     <summary type="html">
     
